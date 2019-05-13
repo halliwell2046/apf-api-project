@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "apf-api-project",
+    "openlibrary-api": "apf-api-project"
+  }
+}
