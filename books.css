@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1526721940322-10fb6e3ae94a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80");
+    background-size: cover;
+    background-position: absolute;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    font-family: 'Goudy Bookletter 1911', serif;
+} 
+
+.heading {
+    font-size: 96px;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+        1px 1px 0 #000; 
+}
+
+.author {
+    font-size: 63px;
+    text-align: right;
+    color: whitesmoke;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+        1px 1px 0 #000; 
+}
+
+.search {
+    font-size: 32px;
+    text-align: left;
+    color: whitesmoke;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+        1px 1px 0 #000; 
+    padding-left: 100px;
+}
+
+.searchbox {
+    font-size: 32px;
+    color: black;
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.submit {
+    font-family: 'Goudy Bookletter 1911', serif; 
+    font-size: 21px;
+}
+
+button {
+    background: gray;
+    border-radius: 5px;
+}
+
+.button {
+    padding-left: 720px;
+}
